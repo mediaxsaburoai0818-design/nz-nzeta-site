@@ -16,15 +16,15 @@ const stats = [
 ];
 
 const infoCards = [
-  { title: "Czym jest NZeTA?", description: "Poznaj nowozelandzki system elektronicznej autoryzacji podróży i dowiedz się, kto musi go uzyskać.", href: "/nzeta-info/what-is-nzeta/", icon: "📋" },
-  { title: "Jak aplikować", description: "Krok po kroku: złóż wniosek przez aplikację mobilną lub stronę internetową.", href: "/nzeta-info/application/", icon: "📱" },
-  { title: "Opłaty NZeTA + IVL", description: "Szczegółowy podział kosztów: NZeTA $17-23 + podatek IVL $100.", href: "/nzeta-info/fee/", icon: "💰" },
+  { title: "Czym jest NZeTA?", description: "Poznaj nowozelandzki system elektronicznej autoryzacji podróży i dowiedz się, kto musi go uzyskać.", href: "/nzeta-info/what-is-nzeta/", icon: "" },
+  { title: "Jak aplikować", description: "Krok po kroku: złóż wniosek przez aplikację mobilną lub stronę internetową.", href: "/nzeta-info/application/", icon: "" },
+  { title: "Opłaty NZeTA + IVL", description: "Szczegółowy podział kosztów: NZeTA $17-23 + podatek IVL $100.", href: "/nzeta-info/fee/", icon: "" },
   { title: "Okres ważności", description: "NZeTA jest ważna przez 2 lata — dowiedz się o przedłużeniu i wygaśnięciu.", href: "/nzeta-info/expiration/", icon: "📅" },
-  { title: "Sprawdź status wniosku", description: "Jak sprawdzić, czy Twoje NZeTA zostało zatwierdzone.", href: "/nzeta-info/status-check/", icon: "🔍" },
-  { title: "Wymagane dokumenty", description: "Lista dokumentów potrzebnych do złożenia wniosku NZeTA.", href: "/nzeta-info/required-documents/", icon: "📄" },
-  { title: "Oficjalna strona NZ", description: "Link do oficjalnej strony rządu Nowej Zelandii.", href: "/nzeta-info/official-nz/", icon: "🏛️" },
+  { title: "Sprawdź status wniosku", description: "Jak sprawdzić, czy Twoje NZeTA zostało zatwierdzone.", href: "/nzeta-info/status-check/", icon: "" },
+  { title: "Wymagane dokumenty", description: "Lista dokumentów potrzebnych do złożenia wniosku NZeTA.", href: "/nzeta-info/required-documents/", icon: "" },
+  { title: "Oficjalna strona NZ", description: "Link do oficjalnej strony rządu Nowej Zelandii.", href: "/nzeta-info/official-nz/", icon: "" },
   { title: "Podatek IVL", description: "Czym jest International Visitor Conservation and Tourism Levy.", href: "/nzeta-info/ivl-tax/", icon: "🌿" },
-  { title: "NZeTA a tranzyt", description: "Czy potrzebujesz NZeTA przy przesiadce w Nowej Zelandii?", href: "/nzeta-info/transit/", icon: "✈️" },
+  { title: "NZeTA a tranzyt", description: "Czy potrzebujesz NZeTA przy przesiadce w Nowej Zelandii?", href: "/nzeta-info/transit/", icon: "" },
 ];
 
 export default function Home() {
